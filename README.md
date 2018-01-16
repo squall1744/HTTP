@@ -29,3 +29,7 @@ baidu.com -> 123.125.114.144
 53 - DNS
 443- HTTPS
 1080 - socks
+
+#### 请求
+查看带响应头的响应
+```curl -D - http://wwww.baidu.com```
